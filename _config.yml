@@ -2,7 +2,7 @@
 
 # Site settings
 title: JOSEPH KOSSMANN GAMES
-description: "Games development from an elder's persepective."
+description: "Games development from a struggling not-a-teen-no-more's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://JosephKossmann.github.io/"
@@ -38,16 +38,8 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+    url:https://www.facebook.com/joseph.kossmann
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
