@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dungeon Death
+title: template
 date: 2017-07-19T13:30:00.000Z
 author: Jospeh Kossmann
 categories:
@@ -10,7 +10,7 @@ categories:
   - CLASSIFIED
 img: post01.jpg
 thumb: c_thumb.jpg
-published: true
+published: false
 ---
 
 <b>Dungeon Death</b> 
