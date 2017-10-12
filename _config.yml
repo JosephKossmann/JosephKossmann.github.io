@@ -36,11 +36,6 @@ collections:
 
 ### CONTACT SETTINGS ###
 
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: facebook
-    url:https://www.facebook.com/joseph.kossmann
-
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
