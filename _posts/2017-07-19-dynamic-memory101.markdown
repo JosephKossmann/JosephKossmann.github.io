@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Dynamic Memory 101
+title: Dungeon Death
 date: 2017-07-19T13:30:00.000Z
 author: Jospeh Kossmann
 categories:
-  - Dungeon Death
   - Snake
   - CLASSIFIED
   - CLASSIFIED
