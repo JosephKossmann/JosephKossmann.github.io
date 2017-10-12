@@ -1,0 +1,38 @@
+---
+layout: post
+title: Dungeon Death
+date: 2017-10-12T15:20:00.000Z
+author: Jospeh Kossmann
+categories:
+  - Snake
+  - CLASSIFIED
+  - CLASSIFIED
+  - CLASSIFIED
+img: post01.jpg
+thumb: c_thumb.jpg
+published: true
+---
+
+<b>Dungeon Death</b> 
+
+Been having issues with both github and the
+
+
+#### Why do we use it?
+
+
+
+#### How do we use it?
+```C++
+int  static_int  = 2;
+int* dynamic_int = new int(2);
+```
+
+#### How do we free it?
+```C++
+if ( dynamic_int )
+{ 
+  delete dynamic_int;
+  dynamic_int = nullptr;
+}
+```
