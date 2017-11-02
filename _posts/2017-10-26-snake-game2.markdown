@@ -7,7 +7,7 @@ categories:
   - CLASSIFIED
   - CLASSIFIED
   - CLASSIFIED
-img: post01.jpg
+img: Snake1.jpg
 thumb: c_thumb.jpg
 published: true
 ---
