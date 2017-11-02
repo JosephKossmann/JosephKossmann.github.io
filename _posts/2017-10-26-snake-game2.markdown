@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Snake
-date: 2017-10-12T15:20:00.000Z
 author: Jospeh Kossmann
 categories:
   - Dungeon Death
@@ -14,6 +13,7 @@ published: true
 ---
 
 <b>Snake</b> 
+<i>12th of October</i>
 
 Been having issues with github, but slowly working through it, plan to lay down the basics from the tutorials whilst changing it in my own way, have yet to decide what exactly to focus on.
 
@@ -27,6 +27,8 @@ date: 2017-10-30T15:20:00.000Z
 author: Jospeh Kossmann
 published: true
 ---
+
+<i>30th of October</i>
 
 Was working on a version of snake based on work from previous years on my own repository, unaware that there was a repository with a basic template readily available, so I switched over to that one and continued to integrate the existing code with code based on previouus C++ games
 
