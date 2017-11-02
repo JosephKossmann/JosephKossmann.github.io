@@ -22,12 +22,6 @@ Been having issues with github, but slowly working through it, plan to lay down 
 img: Pixel fire.gif
 
 ---
-layout: post
-title: Snake
-date: 2017-10-30T15:20:00.000Z
-author: Jospeh Kossmann
-published: true
----
 
 <i>30th of October</i>
 
