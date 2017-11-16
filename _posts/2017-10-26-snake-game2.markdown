@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snake 1
+title: Snake
 author: Jospeh Kossmann
 categories:
   - Dungeon Death
@@ -11,6 +11,7 @@ img: Snake1.jpg
 thumb: c_thumb.jpg
 published: true
 ---
+<i>26th of October</i>
 
 Been having issues with github, but slowly working through it, plan to lay down the basics from the tutorials whilst changing it in my own way, have yet to decide what exactly to focus on.
 
@@ -18,12 +19,14 @@ Been having issues with github, but slowly working through it, plan to lay down 
 img: Pixel fire.gif
 
 ---
+<i>30th of October</i>
 
 Was working on a version of snake based on work from previous years on my own repository, unaware that there was a repository with a basic template readily available, so I switched over to that one and continued to integrate the existing code with code based on previouus C++ games
 
 img: Snake1.jpg
 
 ---
+<i>16th of November</i>
 
 <b>POST MORTEM</b>
 
